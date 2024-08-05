@@ -1,4 +1,4 @@
-package FMIP.RC.articles.Models;
+package FMIP.RC.articles.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
